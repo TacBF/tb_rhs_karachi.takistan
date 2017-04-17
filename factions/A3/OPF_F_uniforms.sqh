@@ -1,0 +1,46 @@
+// USA - Army (UCP)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+
+	// Infantry
+
+	{"rhs_uniform_g3_blk", {__ICE_gear_allRoles}},
+	{"B_CombatUniform_TB_CZ_vz95_desert", {__ICE_gear_allRoles}},
+
+
+	// Sniper
+
+	// Pilot
+	{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+
+// VESTS
+
+	// Infantry
+	{"V_TacVest_blk", {__ICE_gear_allRoles}},
+
+
+
+	// Pilot
+
+
+// HELMETS
+
+	// Infantry
+	{"H_ShemagOpen_khk", {__ICE_gear_allRoles}},
+	{"G_Balaclava_blk", {__ICE_gear_allRoles}},
+
+	// Crewman
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+  {"rhs_ess_black", {__ICE_gear_Crewman}},
+
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+
+// GLASSES
+  {"rhs_balaclava", {__ICE_gear_Diver}},
+	{"G_Aviator", {__ICE_gear_allRoles}},
+	{"G_Balaclava_blk", {__ICE_gear_allRoles}},
+};

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Karachi">
+
+	<Key ID="STR_TB_missionTitle_TB_Karachi">
+		<Original>Karachi</Original>
+		<English>Karachi</English>
+		<German>Karachi</German>
+		<Italian>Karachi</Italian>
+		<Spanish>Karachi</Spanish>
+		<French>Karachi</French>
+		<Czech>Karachi</Czech>
+		<Russian>Karachi</Russian>
+		<Polish>Karachi</Polish>
+		<Hungarian>Karachi</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Karachi">
+		<Original>TacBF A&amp;S[T-10]: Karachi</Original>
+		<English>TacBF A&amp;S[T-10]: Karachi</English>
+		<German>TacBF A&amp;S[T-10]: Karachi</German>
+		<Italian>TacBF A&amp;S[T-10]: Karachi</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Karachi</Spanish>
+		<French>TacBF A&amp;S[T-10]: Karachi</French>
+		<Czech>TacBF A&amp;S[T-10]: Karachi</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Karachi</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Karachi</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Karachi</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

@@ -1,0 +1,44 @@
+// RUS - Army (Flora)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+
+	// Infantry
+	{"rhsgref_uniform_woodland", {__ICE_gear_allRoles}},
+
+
+	// Sniper
+	{"U_O_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_lsh", {__ICE_gear_Sniper}},
+
+
+	// Pilot
+
+
+// VESTS
+
+	// Infantry
+	{"V_I_G_resistanceLeader_F", {__ICE_gear_allRoles}},
+
+
+// Pilot
+
+
+// HELMETS
+
+	// Infantry
+	{"rhs_6b7_1m", {__ICE_gear_allRoles}},
+
+
+
+	// Crewman
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}}
+
+// GLASSES
+
+
+};
